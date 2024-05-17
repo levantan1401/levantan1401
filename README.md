@@ -1,5 +1,25 @@
-# 🏄‍♂️ LÊ VĂN TẤN
-**`Mobile Dev (Android/ Flutter)`**
+# 🏄‍♂️ Welcome to my Github, I'm Tan😄
+I'm a :computer: <i>Software Developer</i> :desert_island:Living in <i>Da Nang</i> :vietnam:
+<div>
+<a href="https://www.linkedin.com/in/levantan1401/" title="linkedin">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:levantan1401.developer@gmail.com" title="gmail">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/levantan140102" title="facebook">
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_tyn.venn_/" title="instagram">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</div>
+
+---
+**`Mobile Dev (Android Kotlin/ Flutter)`**
 
 I am currently a fourth-year student majoring in Software Engineering. I am highly enthusiastic about applying the professional knowledge I have acquired to practical situations. My short-term goal is to seek opportunities as an Android Developer in a reputable organization where I can apply and further develop my skills. 
 During my tenure, I aspire to engage in complex Android app development projects, acquaint myself with and continue learning about emerging technologies, as well as enhance my programming and design skills. I am keen on joining a dynamic work environment full of development opportunities where I can establish a long-term commitment and contribute wholeheartedly. 
@@ -25,6 +45,6 @@ During my tenure, I aspire to engage in complex Android app development projects
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=levantan1401&show_icons=true&theme=gruvbox)
+![Le Van Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=levantan1401&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+⭐️ From <a href="https://github.com/levantan1401">LeVanTan</a>
